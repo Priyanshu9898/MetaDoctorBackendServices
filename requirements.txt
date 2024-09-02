@@ -1,0 +1,12 @@
+pandas 
+numpy
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+torchvision
+torch
+timm
+gunicorn
+python-dotenv
+google-generativeai
